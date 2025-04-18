@@ -1,0 +1,3 @@
+/home/administrator/CLionProjects/Black Jack 2/cmake-build-debug/CMakeFiles/Black_Jack_2.dir
+/home/administrator/CLionProjects/Black Jack 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/administrator/CLionProjects/Black Jack 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
